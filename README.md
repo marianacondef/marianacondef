@@ -1,5 +1,5 @@
 # Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-Future **Systems Engineering** student at UALG. Data science and full-stack development enthusiast! 👩‍💻
+**Systems Engineering and Computer Technologies** student at UALG. Data science and back-end development enthusiast! 👩‍💻
 
 <img src= "https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b952g2wjt37mhbuxl3ll4zrhpckicawxh2ullcprzyij&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
