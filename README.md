@@ -3,7 +3,7 @@
 # Hello! I'm Mariana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-🎓 Studying **Systems Engineering** at Universidade do Algarve. Passionate about **automation, back-end development, and optimizing workflows**!
+🎓 Studying **Systems Engineering** at Universidade do Algarve. Passionate about **automation, full-stack development, and optimizing workflows**!
 
 ---
 
