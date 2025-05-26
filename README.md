@@ -7,7 +7,8 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianacondef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+![marianacondef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacondef&theme=vue-dark&show_icons=true&hide_border=true&hide=jupyter%20notebook,makefile,batchfile,mako&hide_progress=true)
+
 
 ---
 
