@@ -5,10 +5,6 @@
 
 🎓 Studying **Systems Engineering** at Universidade do Algarve. Passionate about **automation, full-stack development, and optimizing workflows**!
 
----
-
-![marianacondef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacondef&theme=vue-dark&show_icons=true&hide_border=true&hide=jupyter%20notebook,makefile,batchfile,mako&hide_progress=true)
-
 
 ---
 
